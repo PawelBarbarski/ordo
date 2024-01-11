@@ -14,7 +14,6 @@ import java.time.Year
 val properExample = Proper(
     Calendar(
         Year.of(1954),
-        Year.of(2023),
         Rite.DivinoAfflatu,
         CalendarScope.General
     ),
